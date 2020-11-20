@@ -1,5 +1,5 @@
 # ENDE Translation Server
-This is the translation server for the En to De Translation project. It performs translation on endpoint `/translate/en-to-de`.
+This is the translation server (written in the python framework Flask) for the En to De Translation project. It performs translation on endpoint `/translate/en-to-de`.
 
 ## Include Pretrained Model
 This translation server requires the OpenNMT pretrained translation model (English to German / ENDE). This can be included in two ways:
